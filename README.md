@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**jmaexe/jmaexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Andrea**, a developer who enjoys building stuff.  
+Mostly working with **TypeScript**, **React**.
+🌱 I’m currently learning some technologies about Mobile Development such as **Flutter**, **React Native**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What you'll find here
+- Personal projects born at 2 a.m.
+- Random web experiments that may or may not be useful
+
+
+## 📫 How to reach me: 
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 💬 Discord: `biscottinobellin`  
+
