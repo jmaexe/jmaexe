@@ -11,6 +11,6 @@ Mostly working with **TypeScript**, **React**.
 
 
 ## 📫 How to reach me: 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrea-micci)
 - 💬 Discord: `biscottinobellin`  
 
