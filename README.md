@@ -1,7 +1,7 @@
 ## Hi 👋
 
 I'm **Andrea**, a developer who enjoys building stuff.  
-Mostly working with **TypeScript**, **React**.
+Mostly working with **TypeScript**, **React**.  
 🌱 I’m currently learning some technologies about Mobile Development such as **Flutter**, **React Native**.
 
 
